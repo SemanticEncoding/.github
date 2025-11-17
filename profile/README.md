@@ -484,4 +484,4 @@ This task is currently pending legal review.
 
 - Read more about SCE in out [online documentation](https://semanticencoding.github.io/sce/).
 - Install the toolkit with ```pnpm install -g semanticencoding```.
-- Pull down the lastest code from [our repository](https://semanticencoding.github.io/sce/).
+- Pull down the lastest code from [our repository](https://github.com/SemanticEncoding/sce).
