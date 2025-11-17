@@ -13,7 +13,8 @@ Natural language is powerful but inefficient for structured communication:
 **❌ Verbose:**
 
 ```
-This is a non-negotiable fact that must remain true throughout the analysis and cannot be contradicted by subsequent reasoning or interpretations.
+This is a non-negotiable fact that must remain true throughout the analysis and 
+cannot be contradicted by subsequent reasoning or interpretations.
 ```
 
 **28 tokens** to express a single constraint.
